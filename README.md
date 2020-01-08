@@ -1,4 +1,5 @@
 # python_koans_solutions
 
-for self practice.
-(extra credit is on the way)
+All tasks are solved.
+just for self practice.
+(TODO: extra credit part)
